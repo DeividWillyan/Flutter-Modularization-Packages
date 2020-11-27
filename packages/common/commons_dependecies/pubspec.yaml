@@ -1,0 +1,17 @@
+name: commons_dependecies
+description: A new Flutter package project.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  dio: ^3.0.10
+  flutter_mobx: ^1.1.0+2
+  mobx: ^1.2.1+4
+  flutter_modular: ^2.0.1
+  flutter:
+    sdk: flutter
