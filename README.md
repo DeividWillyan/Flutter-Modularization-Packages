@@ -12,4 +12,7 @@
     - - - features
       - - - - login
       - - - - payment
+      - - - - pix
 ```
+
+flutter create --template=package packages/features/pix
